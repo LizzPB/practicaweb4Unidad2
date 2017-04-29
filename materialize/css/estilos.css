@@ -146,3 +146,66 @@
     background-image: url("../../images/comida/postres/5.jpg");
     background-size: cover; 
 }
+/*imagenes de las entradas de la cena*/
+.imgECN1{
+    background-image: url("../../images/cena/entradas/1.jpg");
+    background-size: cover; 
+}
+.imgECN2{
+    background-image: url("../../images/cena/entradas/2.jpg");
+    background-size: cover; 
+}
+.imgECN3{
+    background-image: url("../../images/cena/entradas/3.jpg");
+    background-size: cover; 
+}
+.imgECN4{
+    background-image: url("../../images/cena/entradas/4.jpg");
+    background-size: cover; 
+}
+.imgECN5{
+    background-image: url("../../images/cena/entradas/5.jpg");
+    background-size: cover; 
+}
+/*imagenes de los platos fuertes de la cena*/
+.imgPFCN1{
+    background-image: url("../../images/cena/platoFuerte/1.jpg");
+    background-size: cover; 
+}
+.imgPFCN2{
+    background-image: url("../../images/cena/platoFuerte/2.jpg");
+    background-size: cover; 
+}
+.imgPFCN3{
+    background-image: url("../../images/cena/platoFuerte/3.jpg");
+    background-size: cover; 
+}
+.imgPFCN4{
+    background-image: url("../../images/cena/platoFuerte/4.jpg");
+    background-size: cover; 
+}
+.imgPFCN5{
+    background-image: url("../../images/cena/platoFuerte/5.jpg");
+    background-size: cover; 
+}
+/*imagenes de los postres de la cena*/
+.imgPCN1{
+    background-image: url("../../images/cena/postres/1.jpg");
+    background-size: cover; 
+}
+.imgPCN2{
+    background-image: url("../../images/cena/postres/2.jpg");
+    background-size: cover; 
+}
+.imgPCN3{
+    background-image: url("../../images/cena/postres/3.jpg");
+    background-size: cover; 
+}
+.imgPCN4{
+    background-image: url("../../images/cena/postres/4.jpg");
+    background-size: cover; 
+}
+.imgPCN5{
+    background-image: url("../../images/cena/postres/5.jpg");
+    background-size: cover; 
+}
