@@ -1,0 +1,85 @@
+.Titulo{
+    font-family: 'Lobster Two';
+    font-size: 28px;
+}
+.Contenido{
+    font-family: 'LibreBaskerville';
+    font-size: 18px;
+}
+.icon{
+    padding-top: 18px;
+    width: 30px;
+    height: 45px;
+}
+.icon1{
+    padding-top: 18px;
+    width: 40spx;
+    height: 44px;
+}
+.Slide{
+    background-color: black;
+    opacity: 0.75;
+}
+/*imagenes de las entradas del desayuno*/
+.imgED1{
+    background-image: url("../../images/desayuno/entradas/1.jpg");
+    background-size: cover; 
+}
+.imgED2{
+    background-image: url("../../images/desayuno/entradas/2.jpg");
+    background-size: cover; 
+}
+.imgED3{
+    background-image: url("../../images/desayuno/entradas/3.jpg");
+    background-size: cover; 
+}
+.imgED4{
+    background-image: url("../../images/desayuno/entradas/4.jpg");
+    background-size: cover; 
+}
+.imgED5{
+    background-image: url("../../images/desayuno/entradas/5.jpg");
+    background-size: cover; 
+}
+/*imagenes de los platos fuertes del desayuno*/
+.imgPFD1{
+    background-image: url("../../images/desayuno/platoFuerte/1.jpg");
+    background-size: cover; 
+}
+.imgPFD2{
+    background-image: url("../../images/desayuno/platoFuerte/2.jpg");
+    background-size: cover; 
+}
+.imgPFD3{
+    background-image: url("../../images/desayuno/platoFuerte/3.jpg");
+    background-size: cover; 
+}
+.imgPFD4{
+    background-image: url("../../images/desayuno/platoFuerte/4.jpg");
+    background-size: cover; 
+}
+.imgPFD5{
+    background-image: url("../../images/desayuno/platoFuerte/5.jpg");
+    background-size: cover; 
+}
+/*imagenes de los postres del desayuno*/
+.imgPD1{
+    background-image: url("../../images/desayuno/postres/1.jpg");
+    background-size: cover; 
+}
+.imgPD2{
+    background-image: url("../../images/desayuno/postres/2.jpg");
+    background-size: cover; 
+}
+.imgPD3{
+    background-image: url("../../images/desayuno/postres/3.jpg");
+    background-size: cover; 
+}
+.imgPD4{
+    background-image: url("../../images/desayuno/postres/4.jpg");
+    background-size: cover; 
+}
+.imgPD5{
+    background-image: url("../../images/desayuno/postres/5.jpg");
+    background-size: cover; 
+}
