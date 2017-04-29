@@ -83,3 +83,66 @@
     background-image: url("../../images/desayuno/postres/5.jpg");
     background-size: cover; 
 }
+/*imagenes de las entradas de la comida*/
+.imgEC1{
+    background-image: url("../../images/comida/entradas/1.jpg");
+    background-size: cover; 
+}
+.imgEC2{
+    background-image: url("../../images/comida/entradas/2.jpg");
+    background-size: cover; 
+}
+.imgEC3{
+    background-image: url("../../images/comida/entradas/3.jpg");
+    background-size: cover; 
+}
+.imgEC4{
+    background-image: url("../../images/comida/entradas/4.jpg");
+    background-size: cover; 
+}
+.imgEC5{
+    background-image: url("../../images/comida/entradas/5.jpg");
+    background-size: cover; 
+}
+/*imagenes de los platos fuertes de la comida*/
+.imgPFC1{
+    background-image: url("../../images/comida/platoFuerte/1.jpg");
+    background-size: cover; 
+}
+.imgPFC2{
+    background-image: url("../../images/comida/platoFuerte/2.jpg");
+    background-size: cover; 
+}
+.imgPFC3{
+    background-image: url("../../images/comida/platoFuerte/3.jpg");
+    background-size: cover; 
+}
+.imgPFC4{
+    background-image: url("../../images/comida/platoFuerte/4.jpg");
+    background-size: cover; 
+}
+.imgPFC5{
+    background-image: url("../../images/comida/platoFuerte/5.jpg");
+    background-size: cover; 
+}
+/*imagenes de los postres de la comida*/
+.imgPC1{
+    background-image: url("../../images/comida/postres/1.png");
+    background-size: cover; 
+}
+.imgPC2{
+    background-image: url("../../images/comida/postres/2.jpg");
+    background-size: cover; 
+}
+.imgPC3{
+    background-image: url("../../images/comida/postres/3.jpg");
+    background-size: cover; 
+}
+.imgPC4{
+    background-image: url("../../images/comida/postres/4.jpg");
+    background-size: cover; 
+}
+.imgPC5{
+    background-image: url("../../images/comida/postres/5.jpg");
+    background-size: cover; 
+}
